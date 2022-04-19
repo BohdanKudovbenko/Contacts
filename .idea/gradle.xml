@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Find mistake" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Notification" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Affecting the performance" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Declared fields" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Field count" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Not a class" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Not an advantage of reflection" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Reflection and Performance" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Reflection classes" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/The parent for all classes" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/What objects can be represented" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Counting 2D shapes" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/File classes" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/File equality" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Find a statement that returns false" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Pattern matching in practice" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Pattern matching with the operator" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Select statements" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Sort out the classes" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Statements which returns true" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Sum of the areas" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Who is who" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
